@@ -2,5 +2,5 @@ homepage: "https://github.com/hashbookies"
 documentation: "https://github.com/hashbookies/gtm-internal-traffic-flag#readme"
 
 versions:
-  - sha: "eef6790c98a045685f055f382730c588efc2a9ea"
+  - sha: "8b9c278525d256f365b10c773b0168971960510a"
     changeNotes: "Initial release."
