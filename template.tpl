@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "displayName": "Internal Traffic Flag",
   "categories": [
-    "UTILITY",
+    "UTILITIES",
     "ANALYTICS"
   ],
   "description": "Flags likely internal or QA traffic using URL query parameters and optional host rules.",
