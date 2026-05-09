@@ -10,7 +10,7 @@ ___INFO___
 
 {
   "type": "MACRO",
-  "id": "cvt_dd_internal_traffic_flag",
+  "id": "cvt_tk_internal_traffic_flag",
   "version": 1,
   "displayName": "Internal Traffic Flag",
   "categories": [
